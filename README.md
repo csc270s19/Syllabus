@@ -23,12 +23,13 @@ Fri | 10:30-11:30 AM
  * More readings and resources in the *Resources* folder of this repo
 
 ## Computers and Software
- * You will need a computer daily in class. I can bring some laptops if needed from Boone (so some warning would be good).
+ * You will need a computer daily in class. I can bring some laptops if needed from Boone (so some warning would be good). School laptops may not have SQLite editors installed.
  * You will also need software to execute SQL queries on an SQLite DB. Here are some options:<br>
   - [ ] [sqlite studio](http://sqlitestudio.pl/): Has some problems on Mac
   - [ ] [atom+quick-query](https://atom.io): The atom text editor and the *quick-query* package. Has great GitHub integration.
   - [ ] [DataGrip](https://www.jetbrains.com/datagrip/): Commercial with free educational use. Prior students with Mac's have liked this.
   - [ ] [SQLite CLI](): The straight CLI interface for SQLite, it works but seeing query results in a console sucks.
+  - [ ] [RStudio](https://rstudio.collegeofidaho.edu): Use the College's RStudio server, or install [Rstudio](https://www.rstudio.com) your own desktop version.
 
 ## Course Content
 This course will be organized around answering the following questions:
@@ -89,7 +90,16 @@ Final | 10%
 Project report and presentation | 20%
 
 ## Grade Scale
-The following scale will be used to determine your letter grade:
+The following scale will be used to determine your letter grade:<br>
+
+Grade | Overall Percentage Range
+------|--------------------
+A     | $100\%$ - $90.0\%$
+B     | $89.99\% - $80.0\%$
+C     | $79.99\% - $70.0\%$
+D     | $69.99\% - $60.0\%$
+F     | $59.99\% - $00.0\%$
+
 
 ## Disability Accommodations
 The College of Idaho seeks to provide an educational environment that is sensitive to the needs of students with disabilities. The College provides reasonable services to enrolled students who have a documented permanent or temporary physical, mental, or sensory disability that qualifies the student for academic accommodations under the Americans with Disabilities Act or section 504 of the Rehabilitation Act. Students with disabilities are encouraged to notify the College of potential ADA or 504 status during the admission process.
