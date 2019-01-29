@@ -15,7 +15,7 @@ Fri | 10:30-11:30 AM
 
 ## Resources (textbooks, etc.)
  * Textbook: [*Principles of Database Management*](https://www.amazon.com/Principles-Database-Management-Practical-Analyzing/dp/1107186129/) by Lemahieu, Broucke, and Baesens
- * [*Textbook Online Database Environments:*](https://www.pdbmbook.com/playground)
+ * [*Textbook Online Database Environments:*](https://www.pdbmbook.com/playground) Example MySQL, MongoDB, and Neo4j databases we will use at various times.
  * [GitHub Markdown Guide](https://guides.github.com/features/mastering-markdown/)
  * [Git Guide](http://rogerdudler.github.io/git-guide/) - Read this first!
  * [GitHub Guide](https://guides.github.com/introduction/git-handbook/) - Read Second.
@@ -52,9 +52,9 @@ We will cover chapters 1-11, parts of 15, and, time permitting, parts of 17-20 o
 There will be a mid-term and final in this class as well as quizzes, homework and a project. You will be graded on in-class participation as well.
 
 ### In-Class Activities
-Most class sessions will be spent working in pairs on activities and open-ended questions. These are activities to help you explore and develop key ideas related to databases for yourself and provide peer feedback. Your partner(s) should be an asset during these activities and you should be prepared to share your groups progress and accomplishments on each activity with the rest of the class. The primary goal is to help each other learn and deepen your understanding, this requires curiosity, respect for others, and a willingness to learn from mistakes. Sometimes you will be required to complete these tasks, or parts of them, outside of class to prepare for the next meeting. These activities will count towards your grade, so attending class and being actively involved in the tasks and discussions is important. These will be graded on a 5 point scale per day: 1 point for being present and observing, 2 points for active involvement in the task, 2 points for active involvement in discussion (describing solution attempts, finding or correcting errors, asking insightful questions, etc.).
+Most class sessions will be spent working in pairs on activities and open-ended questions. These are activities to help you explore and develop key ideas related to databases for yourself and provide peer feedback. Your partner(s) should be an asset during these activities and you should be prepared to share your groups progress and accomplishments on each activity with the rest of the class. The primary goal is to help each other learn and deepen your understanding, this requires curiosity, respect for others, and a willingness to learn from mistakes. Sometimes you will be required to complete these tasks, or parts of them, outside of class to prepare for the next meeting. These activities will count towards your grade, so attending class and being actively involved in the tasks and discussions is important.
 
-*Attendance Make-up* If you miss class, you may still receive points by submitting a non-trivial SQL query accompanied with a description of (a) how the query was created and (b) why it is of interest. Such queries must refer to databases we have not used extensively in class prior to your submission.
+**Attendance Make-up** If you miss class, you may still receive points by submitting a non-trivial SQL query accompanied with a description of (a) how the query was created and (b) why it is of interest. Such queries must refer to databases we have not used extensively in class prior to your submission.
 
 ### Homework
 We will have roughly weekly assignments that will require you to use ideas and skills discussed in class.  These assignments will grow in complexity through-out the semester. The due date and time for each assignment will be included in the assignment. At that time, or shortly after, I will pull your GitHub Homework repository for grading. Any subsequent changes you make will not be seen and hence not graded unless you talk to me. Late work will have a $25\%$ penalty per day (or any part thereof), it is your responsibility to commit and push changes to homework in a regular fashion before it is due.
@@ -69,7 +69,7 @@ You will complete a project that requires the design and comparison of a databas
  You will have one mid-term exam this semester and a comprehensive
 final exam. The structure and topics of each
 exam will be discussed prior to the examination date, but they will be
-held in class. There will be \textbf{no makeup exams} and alternate
+held in class. There will be **no makeup exams** and alternate
 dates or times
 will only be arranged for participants in University sponsored
 activities that prevent those students from being in class, or extreme
@@ -94,11 +94,11 @@ The following scale will be used to determine your letter grade:<br>
 
 Grade | Overall Percentage Range
 ------|--------------------
-A     | $100\%$ - $90.0\%$
-B     | $89.99\% - $80.0\%$
-C     | $79.99\% - $70.0\%$
-D     | $69.99\% - $60.0\%$
-F     | $59.99\% - $00.0\%$
+A     | 100% - 90.0%
+B     | 89.99% - 80.0%
+C     | 79.99% - 70.0%
+D     | 69.99% - 60.0%
+F     | 59.99% - 00.0%
 
 
 ## Disability Accommodations
