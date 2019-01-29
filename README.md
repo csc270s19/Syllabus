@@ -3,7 +3,8 @@
 ## Contact Info
 Office: Boone 102E<br>
 Email: jpreszler@collegeofidaho.edu <br>
-Office Hours:
+Office Hours:<br>
+
 Day | Time
 ----|-----
 Mon | 10:30-11:30 AM
@@ -20,6 +21,14 @@ Fri | 10:30-11:30 AM
  * [GitHub Guide](https://guides.github.com/introduction/git-handbook/) - Read Second.
  * [GitHub CheatSheet](https://education.github.com/git-cheat-sheet-education.pdf)
  * More readings and resources in the *Resources* folder of this repo
+
+## Computers and Software
+ * You will need a computer daily in class. I can bring some laptops if needed from Boone (so some warning would be good).
+ * You will also need software to execute SQL queries on an SQLite DB. Here are some options:<br>
+  - [ ] [sqlite studio](http://sqlitestudio.pl/): Has some problems on Mac
+  - [ ] [atom+quick-query](https://atom.io): The atom text editor and the *quick-query* package. Has great GitHub integration.
+  - [ ] [DataGrip](https://www.jetbrains.com/datagrip/): Commercial with free educational use. Prior students with Mac's have liked this.
+  - [ ] [SQLite CLI](): The straight CLI interface for SQLite, it works but seeing query results in a console sucks.
 
 ## Course Content
 This course will be organized around answering the following questions:
@@ -69,6 +78,7 @@ me of the conflict ASAP (athletes and those with disabilities should
 inform me early in the semester).
 
 ## Grading
+
 Item | Weight
 -----|-------
 In-class activities and participation | 15%
