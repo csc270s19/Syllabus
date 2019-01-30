@@ -98,12 +98,12 @@ Project report and presentation | 15%
 ## Grade Scale
 The following scale will be used to determine your letter grade:<br>
 
-Grade | Overall Percentage Range
+Min. Grade | Overall Percentage Range
 ------|--------------------
-A     | 100% - 90.0%
-B     | 89.99% - 80.0%
-C     | 79.99% - 70.0%
-D     | 69.99% - 60.0%
+A-     | 100% - 90.0%
+B-     | 89.99% - 80.0%
+C-     | 79.99% - 70.0%
+D-     | 69.99% - 60.0%
 F     | 59.99% - 00.0%
 
 
