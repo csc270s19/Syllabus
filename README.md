@@ -10,8 +10,14 @@ Day | Time
 Mon | 10:30-11:30 AM
 Tues| 1-2 PM
 Wed | 12:00-1:00 PM
-Thurs| 1-2 PM
 Fri | 10:30-11:30 AM
+
+## Exam Dates
+
+Exam | Date | Time
+-----|------|------
+Mid-term | Thurs. 3/14 | 9:40-11:10
+Final | Fri. 5/10 | 8:30-11:30
 
 ## Resources (textbooks, etc.)
  * Textbook: [*Principles of Database Management*](https://www.amazon.com/Principles-Database-Management-Practical-Analyzing/dp/1107186129/) by Lemahieu, Broucke, and Baesens
