@@ -92,8 +92,8 @@ In-class activities and participation | 15%
 Homework and presentation of solutions | 20%
 Quizzes | 20%
 Mid-term | 15%
-Final | 10%
-Project report and presentation | 20%
+Final | 15%
+Project report and presentation | 15%
 
 ## Grade Scale
 The following scale will be used to determine your letter grade:<br>
