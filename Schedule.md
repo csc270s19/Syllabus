@@ -1,9 +1,9 @@
 # Schedule
 
 ## Thursday 1/31
-- [ ] Course intro, Syllabus
-- [ ] Tables activity
-- [ ] Ch. 1 and 2
+- [x] Course intro, Syllabus
+- [x] Tables activity
+- [x] Ch. 1 and 2
 
 ### Homework
 * read ch. 1
