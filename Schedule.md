@@ -13,8 +13,8 @@
 
 ## Tuesday 2/5
 - [ ] Finish Ch. 2
-- [ ] Intro to Git and GitHub
-- [ ] Check SQLite editor installs
+- [x] Intro to Git and GitHub
+- [x] Check SQLite editor installs
 - [ ] Ch. 3 - ER diagrams
 
 ### Homework
@@ -33,4 +33,4 @@
 
 ## Tuesday 2/12
 - [ ] present EER diagrams
-- [ ] 
+- [ ]
