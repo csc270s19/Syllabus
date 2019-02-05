@@ -15,7 +15,7 @@
 - [x] Finish Ch. 2
 - [x] Intro to Git and GitHub
 - [x] Check SQLite editor installs
-- [ ] Ch. 3 - ER diagrams
+- [x] Ch. 3 - ER diagrams
 
 ### Homework
 * read Ch. 3.1 and 3.2
