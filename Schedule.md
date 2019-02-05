@@ -12,7 +12,7 @@
 * ch. 2 review questions 1-14
 
 ## Tuesday 2/5
-- [ ] Finish Ch. 2
+- [x] Finish Ch. 2
 - [x] Intro to Git and GitHub
 - [x] Check SQLite editor installs
 - [ ] Ch. 3 - ER diagrams
