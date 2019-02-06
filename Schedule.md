@@ -33,9 +33,14 @@
 
 ## Tuesday 2/12
 - [ ] present EER diagrams
-- [ ] Ch. 6.1 and 1NF
+- [ ] Ch. 6.1.1-2 and 1NF (6.2.1, 6.2.4.1)
 - [ ] Connect to DB 
-- [ ] `SELECT` and `WHERE` clauses (7.3.1)
+- [ ] `SELECT` and `WHERE` clauses (7.3.1.1)
 
 ### Homework
  * 
+
+## Thurs. 2/14
+- [ ] Aggregation, grouping and ordering in queries (7.3.1.2-4)
+- [ ] Keys
+- [ ] Functional dependencies
