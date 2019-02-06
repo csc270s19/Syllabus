@@ -33,4 +33,9 @@
 
 ## Tuesday 2/12
 - [ ] present EER diagrams
-- [ ]
+- [ ] Ch. 6.1 and 1NF
+- [ ] Connect to DB 
+- [ ] `SELECT` and `WHERE` clauses (7.3.1)
+
+### Homework
+ * 
