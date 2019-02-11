@@ -39,9 +39,10 @@
 - [ ] `SELECT` and `WHERE` clauses (7.3.1.1)
 
 ### Homework
- *
+ * [select where hw](https://github.com/csc270s19/In-Class/blob/master/01-HW.md), due in GitHub classroom repo by Thursday at 9:40 AM.
 
 ## Thurs. 2/14
 - [ ] Aggregation, grouping and ordering in queries (7.3.1.2-4)
-- [ ] Keys
-- [ ] Functional dependencies
+- [ ] Keys (6.1.3)
+- [ ] Functional dependencies (6.2.3)
+- [ ] 2NF (6.2.4.2)
