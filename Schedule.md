@@ -32,11 +32,11 @@
 * Turn in you EER diagram in the [GitHub classroom HW assignment](https://classroom.github.com/a/75ngl0Ts)
 
 ## Tuesday 2/12
-- [ ] Quiz 1: vocab and concepts from ch. 1,2
-- [ ] present EER diagrams
-- [ ] Ch. 6.1.1-2 and 1NF (6.2.1, 6.2.4.1)
-- [ ] Connect to DB
-- [ ] `SELECT` and `WHERE` clauses (7.3.1.1)
+- [x] Quiz 1: vocab and concepts from ch. 1,2
+- [ ] ~present EER diagrams~
+- [x] Ch. 6.1.1-2 and 1NF (6.2.1, 6.2.4.1)
+- [x] Connect to DB
+- [x] `SELECT` and `WHERE` clauses (7.3.1.1)
 
 ### Homework
  * [select where hw](https://github.com/csc270s19/In-Class/blob/master/01-HW.md), due in GitHub classroom repo by Thursday at 9:40 AM.
