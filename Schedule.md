@@ -42,7 +42,16 @@
  * [select where hw](https://github.com/csc270s19/In-Class/blob/master/01-HW.md), due in GitHub classroom repo by Thursday at 9:40 AM.
 
 ## Thurs. 2/14
-- [ ] Aggregation, grouping and ordering in queries (7.3.1.2-4)
-- [ ] Keys (6.1.3)
-- [ ] Functional dependencies (6.2.3)
+- [X] Aggregation, grouping and ordering in queries (7.3.1.2-4)
+
+## Tues. 2/19
+- [X] Keys (6.1.3)
+- [X] Functional dependencies (6.2.3)
+- [X] Full or Irreducible functional dependencies
+
+### Homework due Thus. 2/21
+* Submit queries that check for Functional dependencies in `sf-salaries`
+* For each functional dep. found, determine if it's full (aka irreducible)
+
+## Thurs. 2/21
 - [ ] 2NF (6.2.4.2)
