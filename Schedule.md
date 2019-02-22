@@ -54,4 +54,8 @@
 * For each functional dep. found, determine if it's full (aka irreducible)
 
 ## Thurs. 2/21
-- [ ] 2NF (6.2.4.2)
+- [x] 2NF (6.2.4.2)
+
+## Tues. 2/26
+- [ ] Transitive functional dependencies
+- [ ] 3NF
