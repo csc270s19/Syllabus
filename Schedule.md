@@ -57,5 +57,16 @@
 - [x] 2NF (6.2.4.2)
 
 ## Tues. 2/26
-- [ ] Transitive functional dependencies
-- [ ] 3NF
+- [x] Transitive functional dependencies
+- [x] 3NF
+- [x] BCNF
+
+### Homework due 3/7
+* Begin putting sf-salaries into BCNF. Start by finding functional dependencies and closures.
+
+## Thurs. 2/28
+- [ ] More BCNF
+- [ ] `CREATE TABLE` and `CREATE VIEW`
+
+## Tues. 3/5
+- [ ] Quiz 2 on Functional Dependencies and NF 1-BC
