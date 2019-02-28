@@ -65,8 +65,11 @@
 * Begin putting sf-salaries into BCNF. Start by finding functional dependencies and closures.
 
 ## Thurs. 2/28
-- [ ] More BCNF
-- [ ] `CREATE TABLE` and `CREATE VIEW`
+- [x] More BCNF
+- [x] `CREATE TABLE` and `CREATE VIEW`
+
+### Homework due 3/7
+* submit to your homework repository queries to split the `Salaries` table of `sf-salaries` into BCNF. You should be able to turn `Salaries` into 4 tables somewhat easily even if ou can't get complete BCNF.
 
 ## Tues. 3/5
 - [ ] Quiz 2 on Functional Dependencies and NF 1-BC
