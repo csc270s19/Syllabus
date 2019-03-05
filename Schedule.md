@@ -77,4 +77,4 @@
 
 ### HW
  * continue BCNF normalization of `sf-salaries`
- * read Wu paper (in resources and handed out in class) on 4NF
+ * read [Wu paper](https://github.com/csc270s19/Syllabus/tree/master/Resources/p19-wu.pdf) (in resources and handed out in class) on 4NF
