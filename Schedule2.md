@@ -9,4 +9,12 @@
 
 # Thurs. 4/11
 * Basic intro to Python and basic DB interfacing
-* Project groups assigned 
+* ~Project groups assigned~ 
+
+# Tues. 4/16
+* Finish `SQLAlchemy` intro
+* NoSQL Overview
+* Projects assignment
+
+## HW
+* Groups have been assigned via Teams on GitHub - [here is the link](https://classroom.github.com/g/JJLePZQw) for your project repository. Join your team and start working.
